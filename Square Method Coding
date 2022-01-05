@@ -1,0 +1,32 @@
+package Method;
+
+public class Square {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int value = 2;
+		System.out.println("Test");
+		printSquare("Hello");
+		printSquare(value);
+		printSquare(value*3);
+		printSquare(4);
+		printSquare("Malaysia");
+	}
+	
+	public static void printSquare(String a) {
+		System.out.println(a);
+	}
+		
+	public static void printSquare(int b) {
+		System.out.println(b);
+	}
+	/*
+	public static void printSquare(int c) {
+		System.out.println(c);
+	}
+	
+	public static void printSqaure(int d) {
+		System.out.println(d);
+	}*/
+}
+
