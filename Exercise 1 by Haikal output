@@ -1,0 +1,29 @@
+Please enter 9 numbers : 
+Insert row 1 and column 1
+1
+Insert row 1 and column 2
+2
+Insert row 1 and column 3
+3
+Insert row 2 and column 1
+4
+Insert row 2 and column 2
+5
+Insert row 2 and column 3
+6
+Insert row 3 and column 1
+7
+Insert row 3 and column 2
+8
+Insert row 3 and column 3
+9
+
+1 2 3 
+4 5 6 
+7 8 9 
+
+Sum of each row: 1
+Sum of each row: 3
+Sum of each row: 6
+
+6
