@@ -1,0 +1,18 @@
+Display the matrix:
+6 2 4  
+1 5 9  
+8 7 3  
+
+Display the sum: 
+6 2 4 
+Sum of each row: 12
+Cumulative sum after each row: 12
+
+1 5 9 
+Sum of each row: 27
+Cumulative sum after each row: 39
+
+8 7 3 
+Sum of each row: 45
+Cumulative sum after each row: 84
+
